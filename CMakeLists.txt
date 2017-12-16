@@ -8,3 +8,6 @@ add_executable(task1 ${TASK1_SOURCE})
 
 set(TASK2_SOURCE task2.cpp)
 add_executable(task2 ${TASK2_SOURCE})
+
+set(TASK3_SOURCE task3.cpp)
+add_executable(task3 ${TASK3_SOURCE})
